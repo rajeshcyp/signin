@@ -3,6 +3,7 @@
 Sign In - displays a sign in box for newsletter mailing \
 
 Components:\
+HTML / CSS/ Bootstrap \
 Node.js\
 Express\
 dotenv\
