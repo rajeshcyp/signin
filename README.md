@@ -10,4 +10,6 @@ body-parser\
 request\
 https\
 Mailchimp - for email collection\
-Heroku for deployment\
+Heroku for deployment \
+
+Demo : https://safe-cliffs-94805.herokuapp.com/
