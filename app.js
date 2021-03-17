@@ -5,8 +5,8 @@ const request = require('request');
 const https = require('https')
 
 
-const PORT = process.env.SERVER_PORT;
-const HOST = process.env.SERVER_HOST;
+const PORT = process.env.PORT;
+const HOST = process.env.HOST;
 const API_KEY = process.env.MAILCHIMP_API_KEY;
 const LIST_ID = process.env.MAILCHIMP_LIST_ID;
 const MAIL_HOST = process.env.MAILCHIMP_HOST;
